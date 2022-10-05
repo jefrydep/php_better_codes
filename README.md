@@ -1,4 +1,4 @@
 Cuaderno de informe.
 
 
-https://jefrydep.github.io/php_better_codes/tree/gh-pages
+https://jefrydep.github.io/php_better_codes/
